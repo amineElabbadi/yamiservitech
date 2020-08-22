@@ -1,2 +1,2 @@
 # yamiservitech
-digital agency website
+Digital agency website
